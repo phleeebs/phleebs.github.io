@@ -1,0 +1,48 @@
+body {
+  background: #000;
+  color: #edf4f2;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+a {
+  color: #c70039;
+}
+
+.card {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  padding: 10vw;
+  transform-style: preserve-3d;
+}
+
+.card .title {
+  position: relative;
+  z-index: 2;
+  transform: translateZ(20px);
+}
+
+.card .credits {
+  font-size: 1.2vh;
+  letter-spacing: 0.05em;
+  opacity: 0.6;
+  transform: translateZ(20px);
+}
+
+.card .bg {
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: url('../assets/phleebs.jpg');
+  background-size: cover;
+  background-position: center;
+}
