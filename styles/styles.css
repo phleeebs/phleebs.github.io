@@ -42,7 +42,7 @@ a {
   left: 0;
   height: 100%;
   width: 100%;
-  background: url('../assets/phleebs.jpg');
+  background: url('https://raw.githubusercontent.com/phleebs/phleebs/master/assets/Phleebs.jpg');
   background-size: cover;
   background-position: center;
 }
