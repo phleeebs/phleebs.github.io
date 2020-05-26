@@ -1,6 +1,6 @@
 # Phleebs
 
-This is the Open Source Version to host awesome projects built by the supporting developers of <a rel="dofollow" href="https://phleebs.com">Phleebs</a>
+This is the Open Source Version to host awesome projects built by the supporting developers of <a href="https://phleebs.com" rel="dofollow">Phleebs</a>
 
 This repository is on introducing what Phleebs is all about. New and upcoming features would also be updated here.
 
